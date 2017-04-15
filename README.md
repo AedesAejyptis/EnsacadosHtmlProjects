@@ -21,4 +21,13 @@ aasdasdasdasdasdad  uée ass:lucas
 
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 >>>>>>> EnsacadosHtmlProjects/master
+=======
+era uma vez um githubbbbbbbbbbbbbbbbbbbbbbbbb
+>>>>>>> EnsacadosHtmlProjects/master
+>>>>>>> EnsacadosHtmlProjects/master
+======
+asdasdasdasdasd: lucas
+>>>>>>> EnsacadosHtmlProjects/master
+
