@@ -13,8 +13,12 @@ taco taco do balaco baco
 
 aeeeeeeee pohaa
 =======
-
-uée ass:lucas
-
 era uma vez um github
+>>>>>>> EnsacadosHtmlProjects/master
+
+=======
+aasdasdasdasdasdad  uée ass:lucas
+
+<<<<<<< HEAD
+
 >>>>>>> EnsacadosHtmlProjects/master
